@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://progressive.nikadevs.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Progressive - Web design</title>
+ <link>http://progressive.nikadevs.com/taxonomy/term/2</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Blog Quote</title>
+ <link>http://progressive.nikadevs.com/blog/blog-quote</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;blockquote &gt;
+      &lt;p&gt;
+&lt;p&gt;Proin vel ultrices erat. Etiam et enim libero. Duis sollicitudin dignissim. Duis suscipit faucibus. Duis tristique feugiat velit quis lobortis. Phasellus dignissim mollis massa, sit amet accumsan urna euismod quis.&lt;/p&gt;
+
+ &lt;/p&gt;
+      &lt;small&gt;Someone famous in Source Title&lt;/small&gt;
+    &lt;/blockquote&gt;
+ &lt;/div&gt;&lt;div class=&quot;field field-name-field-category field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;a href=&quot;/taxonomy/term/3&quot;&gt;eCommerce&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/2&quot;&gt;Web design&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 15 Sep 2014 09:39:13 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">123 at http://progressive.nikadevs.com</guid>
+ <comments>http://progressive.nikadevs.com/blog/blog-quote#comments</comments>
+</item>
+<item>
+ <title>Excepteur sint occaecat cupidatat</title>
+ <link>http://progressive.nikadevs.com/blog/excepteur-sint-occaecat-cupidatat-4</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/progressive.nikadevs.com/files/portfolio-14.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.&lt;/p&gt;
+
+ &lt;/div&gt;&lt;div class=&quot;field field-name-field-category field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;a href=&quot;/taxonomy/term/4&quot;&gt;Ubercart&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/2&quot;&gt;Web design&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 15 Sep 2014 09:34:05 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">116 at http://progressive.nikadevs.com</guid>
+ <comments>http://progressive.nikadevs.com/blog/excepteur-sint-occaecat-cupidatat-4#comments</comments>
+</item>
+<item>
+ <title>Aliquam at varius turpis, ut pretium justo</title>
+ <link>http://progressive.nikadevs.com/blog/aliquam-varius-turpis-ut-pretium-justo</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;p&gt;Suspendisse dolor mi, scelerisque non felis non, scelerisque tempus orci. Vivamus vitae tempus urna, ac feugiat sem. Fusce vehicula turpis vel urna varius pulvinar. Maecenas mattis dictum velit, ut hendrerit ligula. Maecenas porta placerat pharetra. Etiam non ornare nibh, aliquam congue dui. Mauris nec felis convallis, vestibulum nibh nec, posuere mi. Aenean vehicula lectus vel vulputate faucibus. In hac habitasse platea dictumst.&lt;/p&gt;
+&lt;p&gt;Vivamus non hendrerit diam. Mauris sollicitudin id urna at suscipit. Aliquam nibh felis, congue ac orci ac, venenatis feugiat dolor. Donec pretium dictum felis sit amet eleifend. Suspendisse potenti. Etiam lectus neque, eleifend quis nisl eu, lobortis dapibus dui. Nulla bibendum magna eget urna commodo, tincidunt hendrerit lectus ultrices. Vivamus nibh ipsum, condimentum ac justo non, rutrum semper mauris. Praesent pellentesque eros vel elementum molestie. Pellentesque ullamcorper velit sollicitudin eros pellentesque posuere. Aliquam at varius turpis, ut pretium justo. Donec aliquet, mauris vel porttitor eleifend, ipsum lacus auctor turpis, vitae pharetra urna sapien sed justo. In varius massa ac auctor laoreet. Morbi ut nulla a nisl semper interdum. Pellentesque posuere justo eleifend mauris consectetur mollis.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-category field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;a href=&quot;/taxonomy/term/4&quot;&gt;Ubercart&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/2&quot;&gt;Web design&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Jun 2014 08:12:19 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">61 at http://progressive.nikadevs.com</guid>
+ <comments>http://progressive.nikadevs.com/blog/aliquam-varius-turpis-ut-pretium-justo#comments</comments>
+</item>
+<item>
+ <title>Excepteur sint occaecat cupidatat</title>
+ <link>http://progressive.nikadevs.com/blog/excepteur-sint-occaecat-cupidatat-1</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-category field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;a href=&quot;/taxonomy/term/10&quot;&gt;Movies&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/2&quot;&gt;Web design&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Jun 2014 08:09:59 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">55 at http://progressive.nikadevs.com</guid>
+ <comments>http://progressive.nikadevs.com/blog/excepteur-sint-occaecat-cupidatat-1#comments</comments>
+</item>
+<item>
+ <title>Phasellus Vitae Vestibulum</title>
+ <link>http://progressive.nikadevs.com/blog/phasellus-vitae-vestibulum-0</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-category field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;a href=&quot;/taxonomy/term/4&quot;&gt;Ubercart&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/2&quot;&gt;Web design&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Jun 2014 08:09:43 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">54 at http://progressive.nikadevs.com</guid>
+ <comments>http://progressive.nikadevs.com/blog/phasellus-vitae-vestibulum-0#comments</comments>
+</item>
+<item>
+ <title>Phasellus Vitae Vestibulum</title>
+ <link>http://progressive.nikadevs.com/blog/phasellus-vitae-vestibulum</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-category field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;a href=&quot;/taxonomy/term/4&quot;&gt;Ubercart&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/2&quot;&gt;Web design&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Jun 2014 08:03:39 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">52 at http://progressive.nikadevs.com</guid>
+ <comments>http://progressive.nikadevs.com/blog/phasellus-vitae-vestibulum#comments</comments>
+</item>
+</channel>
+</rss>
